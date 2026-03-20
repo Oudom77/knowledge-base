@@ -27,10 +27,10 @@ DESKTOP-Q2UQQP6
 
 
 ---
-[[Publish/Challenges/Natas/Natas 0 ➡️ 1]]
-[[Publish/Challenges/Natas/Natas 1 ➡️ 2]]
-[[Publish/Challenges/Natas/Natas 2 ➡️ 3]]
-[[Publish/Challenges/Natas/Natas 3 ➡️ 4]]
-[[Publish/Challenges/Natas/Natas 4 ➡️ 5]]
-[[Publish/Challenges/Natas/Natas 5 ➡️ 6]]
-[[Publish/Challenges/Natas/Natas 6 ➡️ 7]]
+[[Natas 0 ➡️ 1]]
+[[Natas 1 ➡️ 2]]
+[[Natas 2 ➡️ 3]]
+[[Natas 3 ➡️ 4]]
+[[Natas 4 ➡️ 5]]
+[[Natas 5 ➡️ 6]]
+[[Natas 6 ➡️ 7]]

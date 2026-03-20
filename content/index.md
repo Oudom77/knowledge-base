@@ -1,19 +1,16 @@
----
-title: Home
----
+# 👋 Welcome
 
-# Welcome 👋
-
-This is my personal knowledge base.
-
-- Networking
+I document everything I learn in:
 - Cybersecurity
-- Projects
+- Networking (CCNA)
+- Linux & Systems
 
-# My Knowledge Base
+## 🚀 Start Here
+- [[knowledge/networking/osi-model]]
+- [[labs/ccna/vlan-lab]]
 
-## Networking
-- [[networking/ospf]]
+## 🧪 Latest Writeups
+- [[writeups/ctf/natas/natas5]]
 
-## Cybersecurity
-- (coming soon)
+## 🛠 Projects
+- [[projects/piknit-malware-scanner]]
