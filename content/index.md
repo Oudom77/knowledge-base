@@ -1,3 +1,6 @@
+---
+title: Home Page
+---
 # 👋 Welcome
 
 I document everything I learn in:
