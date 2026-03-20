@@ -34,3 +34,4 @@ DESKTOP-Q2UQQP6
 [[../../../Publish/writeups/natas/Natas 4 ➡️ 5]]
 [[../../../Publish/writeups/natas/Natas 5 ➡️ 6]]
 [[../../../Publish/writeups/natas/Natas 6 ➡️ 7]]
+
