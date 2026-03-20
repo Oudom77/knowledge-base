@@ -27,10 +27,10 @@ DESKTOP-Q2UQQP6
 
 
 ---
-[[Natas 0 ➡️ 1]]
-[[Natas 1 ➡️ 2]]
-[[Natas 2 ➡️ 3]]
-[[Natas 3 ➡️ 4]]
-[[Natas 4 ➡️ 5]]
-[[Natas 5 ➡️ 6]]
-[[Natas 6 ➡️ 7]]
+[[../../../Publish/writeups/natas/Natas 0 ➡️ 1]]
+[[../../../Publish/writeups/natas/Natas 1 ➡️ 2]]
+[[../../../Publish/writeups/natas/Natas 2 ➡️ 3]]
+[[../../../Publish/writeups/natas/Natas 3 ➡️ 4]]
+[[../../../Publish/writeups/natas/Natas 4 ➡️ 5]]
+[[../../../Publish/writeups/natas/Natas 5 ➡️ 6]]
+[[../../../Publish/writeups/natas/Natas 6 ➡️ 7]]
