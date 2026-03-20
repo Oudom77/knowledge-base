@@ -8,7 +8,7 @@ Steps:
 3. First is to check the HTML's source code and saw this snippet:
 ```
 
-![[assets/natas2-1.png]]
+![](/writeups/natas/assets/natas2-1.png)
 
 ```
 4. When clicked, I was redirected to this page: 
@@ -20,10 +20,10 @@ Steps:
 6. Access the page: http://natas2.natas.labs.overthewire.org/files
 ```
 
-![[assets/natas2-2.png]]
+![](/writeups/natas/assets/natas2-2.png)
 
 The password is in users.txt
 
-![[assets/natas2-3.png]]
+![](/writeups/natas/assets/natas2-3.png)
 
 ![[Pasted image 20260320233211.png]]
